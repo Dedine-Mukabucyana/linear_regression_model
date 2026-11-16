@@ -27,7 +27,7 @@ The best model is saved with its preprocessing as a Pipeline in `summative/API/b
 
 ## Public API (Swagger UI)
 
-**Swagger UI:** <PASTE-YOUR-RENDER-LINK>/docs
+**Swagger UI:** https://gbv-prevalence-api.onrender.com/docs
 
 Routes: `POST /predict`, `POST /retrain` (upload a CSV), `GET /options`, `GET /docs`.
 The free Render service sleeps after 15 minutes without traffic, so the first request can take up to a minute.
