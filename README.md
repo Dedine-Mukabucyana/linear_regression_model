@@ -1,8 +1,8 @@
 ﻿# GBV Partner Violence Prevalence Predictor
 
-**Mission and problem:** Gender-based violence (GBV) often goes unreported. My mission is an anonymous reporting platform where every report is followed up by the Isange One Stop Centre and the Rwanda Investigation Bureau (RIB).
-Isange, RIB and the platform team have limited staff, so they need to know which groups of women face the highest partner violence to decide where to focus outreach and follow-up.
-This project predicts the percentage of women in a group who experienced physical and/or sexual violence from a husband or partner in the last 12 months.
+**Mission and problem:** Gender based violence (GBV) tends to be unreported. My mission is an anonymous reporting platform that has an Isange One Stop Centre and the Rwanda Investigation Bureau (RIB), following up the report.
+Isange, RIB and the platform team has limited staffing capacity and therefore requires information on which women groups are prone to the most occurrences of partner violence as a basis for which to concentrate on outreach to and follow-up with women.
+This project estimates the proportion of women in a population that's been physically and/or sexually assaulted by their husband/partner in the past year.
 
 ## Dataset
 
