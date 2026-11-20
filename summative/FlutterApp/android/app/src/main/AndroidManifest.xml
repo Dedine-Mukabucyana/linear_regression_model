@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- Lets the app use the internet to call the API -->
    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="gbv_predictor"
