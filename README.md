@@ -32,7 +32,7 @@ The best model is saved with its preprocessing as a Pipeline in `summative/API/b
 Routes: `POST /predict`, `POST /retrain` (upload a CSV), `GET /options`, `GET /docs`.
 The free Render service sleeps after 15 minutes without traffic, so the first request can take up to a minute.
 
-## Video demo
+## Video demo: https://youtu.be/fgzznLavgvA
 
 **YouTube:** <PASTE-YOUR-YOUTUBE-LINK>
 
